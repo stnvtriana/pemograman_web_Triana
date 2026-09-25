@@ -12,6 +12,7 @@ class mahasiswa {
         $this->semester = $semester;
     }
 }
+
 $mhs1 = new mahasiswa();
 $mhs2 = new mahasiswa();
 
